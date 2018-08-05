@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "file": "/Users/tim/source-map-applySourceMap-repro/lib/reference/src_original.tsx",
+    "sourceRoot": "",
+    "sources": [
+        "/Users/tim/source-map-applySourceMap-repro/lib/reference/src_original.tsx"
+    ],
+    "names": [],
+    "mappings": "AAAA,OAAO,KAAK,OAAO,MAAM,SAAS,CAAC;AAEnC,MAAM,CAAC,MAAM,IAAI,GAAG,GAAG,EAAE,CAAC,CAAC,GAAG,CAAC,QAAQ,EAAE,GAAG,CAAC,CAAC;AAE9C;IACI,OAAO,CAAC,GAAG,CAAC,SAAS,CAAC,CAAC;IACvB,OAAO,CAAC,GAAG,CAAC,UAAU,CAAC,CAAC;IACxB,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;AACzB,CAAC",
+    "sourcesContent": [
+        "import * as Surplus from 'surplus';\n\nexport const View = () => <div>The div!</div>;\n\nfunction someFunction() {\n    console.log('several');\n    console.log('indented');\n    console.log('lines');\n}\n"
+    ]
+}

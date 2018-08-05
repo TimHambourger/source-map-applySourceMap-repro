@@ -1,0 +1,14 @@
+{
+  "name": "source-map-applysourcemap-repro",
+  "version": "0.0.1",
+  "description": "Repro for issue with source-map package applySourceMap method",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Hambourger",
+  "license": "MIT",
+  "dependencies": {
+    "source-map": "^0.7.3"
+  }
+}

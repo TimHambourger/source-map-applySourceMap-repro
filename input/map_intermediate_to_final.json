@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "file": "out.js",
+    "sources": [
+        "/Users/tim/source-map-applySourceMap-repro/lib/reference/src_original.tsx"
+    ],
+    "sourcesContent": [
+        "import * as Surplus from 'surplus';\nexport const View = () => <div>The div!</div>;\nfunction someFunction() {\n    console.log('several');\n    console.log('indented');\n    console.log('lines');\n}\n"
+    ],
+    "names": [],
+    "mappings": "AAAA;AACA,0BAA0B;;;;;IAAmB;AAC7C;AACA;AACA;AACA;AACA;AACA"
+}
